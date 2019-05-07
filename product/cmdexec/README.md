@@ -9,7 +9,7 @@
 ## 2. 依赖服务
 
 - ActiveMQ
-- Ansible
+- [Ansible](../../middleware/Ansible.md)
 
 ## 3. 介质
 
