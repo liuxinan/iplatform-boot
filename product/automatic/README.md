@@ -11,10 +11,10 @@
 
 ## 2. 依赖服务
 
-- 发现服务
-- 认证服务
-- ActiveMQ
-- Redis
+- [发现服务](../../iplatform-common/AuthService.md)
+- [认证服务](../../iplatform-common/DiscoveryService.md)
+- [ActiveMQ](../../middleware/ActiveMQ.md)
+- [Redis](../../middleware/Redis.md)
 
 ## 3. 介质
 
