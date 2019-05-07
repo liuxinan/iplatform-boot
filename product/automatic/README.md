@@ -11,8 +11,8 @@
 
 ## 2. 依赖服务
 
-- [发现服务](../../iplatform-common/AuthService.md)
-- [认证服务](../../iplatform-common/DiscoveryService.md)
+- [发现服务](../../iplatform-common/DiscoveryService.md)
+- [认证服务](../../iplatform-common/AuthService.md)
 - [ActiveMQ](../../middleware/ActiveMQ.md)
 - [Redis](../../middleware/Redis.md)
 
