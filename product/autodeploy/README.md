@@ -9,12 +9,12 @@
 
 ## 2. 依赖服务
 
-- 发现服务
-- 认证服务
+- [发现服务](../../iplatform-common/DiscoveryService.md)
+- [认证服务](../../iplatform-common/AuthService.md)
 - 自动化引擎
 - 命令中心
-- ActiveMQ
-- Redis
+- [ActiveMQ](../../middleware/ActiveMQ.md)
+- [Redis](../../middleware/Redis.md)
 - Ansible
 - Webdav
 
