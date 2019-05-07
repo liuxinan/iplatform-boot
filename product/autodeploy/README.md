@@ -11,12 +11,12 @@
 
 - [发现服务](../../iplatform-common/DiscoveryService.md)
 - [认证服务](../../iplatform-common/AuthService.md)
-- 自动化引擎
-- 命令中心
+- [自动化引擎](../../product/automatic/README.md)
+- [命令中心](../../product/cmdexec/README.md)
 - [ActiveMQ](../../middleware/ActiveMQ.md)
 - [Redis](../../middleware/Redis.md)
-- Ansible
-- Webdav
+- [Ansible](../../middleware/Ansible.md)
+- [Webdav](../../middleware/Webdav.md)
 
 ## 3. 介质
 
