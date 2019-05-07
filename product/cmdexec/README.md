@@ -8,7 +8,7 @@
 
 ## 2. 依赖服务
 
-- ActiveMQ
+- [ActiveMQ](../../middleware/ActiveMQ.md)
 - [Ansible](../../middleware/Ansible.md)
 
 ## 3. 介质
