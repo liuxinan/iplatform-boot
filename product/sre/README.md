@@ -108,7 +108,7 @@ sh schedule_run.sh restart
 | eureka.instance.metadataMap.tenant    | 是    |      | 租户                                       |
 | server.host                           | 是    |      | 服务绑定IP                                   |
 | server.port                           | 是    |      | 服务绑定端口                                   |
-| flyway.enabled                        | 是    |      | 是否开启flyway，配置为false                      |
+| flyway.enabled                        | 是    |      | 是否开启flyway，默认为true                      |
 | spring.activemq.broker-url            | 是    |      | activemq服务地址，如：“tcp://192.168.55.46:61616” |
 | spring.datasource.dataSourceClassName | 是    |      | 数据源驱动，如使用mysql，则配置为“com.mysql.jdbc.Driver”，如使用oracle，则配置为“oracle.jdbc.driver.OracleDriver” |
 | spring.datasource.url                 | 是    |      | 数据源地址，如使用mysql，则配置为"jdbc:mysql://192.168.55.50:3306/sre?useUnicode=true&characterEncoding=utf-8&autoReconnect=true"；如使用oracle，则配置为“jdbc:oracle:thin:@127.0.0.1:1521:bomc” |
